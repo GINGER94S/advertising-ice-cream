@@ -28,4 +28,4 @@ Back home we have a shop that sells yogurts, because of that , i have decided to
 * correcting errors
 * Submit
 
-index  https://ginger94s.github.io/advertising-ice-cream/
+index  https://ginger94s-advertising-ice-cream.glitch.me/
