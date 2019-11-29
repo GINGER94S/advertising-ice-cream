@@ -1,4 +1,4 @@
-# Frozen Yogurt Shop
+# Taste Icecream Shop
 
 
 # Introduction
