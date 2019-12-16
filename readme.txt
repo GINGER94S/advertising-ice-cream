@@ -23,9 +23,6 @@ Back home we have a shop that sells yogurts, because of that , i have decided to
 * It is also going to be easy to use (very flexible).
 
 ## Plan 
-* creating front end  in 2 weeks first and,
-* creating back end in 3 weeks second
-* correcting errors
-* Submit
+Full project with front end and backend in nodejs
 
 <p align="left"> >><a href="https://ginger94s-advertising-ice-cream.glitch.me/" > demo </a><<<br><br>r>
