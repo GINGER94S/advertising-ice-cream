@@ -28,4 +28,6 @@ Back home we have a shop that sells yogurts, because of that , i have decided to
 * correcting errors
 * Submit
 
-  [https://ginger94s-advertising-ice-cream.glitch.me/users/login][index]
+
+Demo
+  https://ginger94s-advertising-ice-cream.glitch.me/users/login
