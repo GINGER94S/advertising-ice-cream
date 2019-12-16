@@ -29,4 +29,4 @@ Back home we have a shop that sells yogurts, because of that , i have decided to
 * Submit
 
 
-<p align="left"> >><a href="https://ginger94s-advertising-ice-cream.glitch.me/users/login" > demo </a><<<br><br>
+<p align="left"> >><a href="https://ginger94s-advertising-ice-cream.glitch.me/" > demo </a><<<br><br>
