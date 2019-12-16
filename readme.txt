@@ -28,5 +28,4 @@ Back home we have a shop that sells yogurts, because of that , i have decided to
 * correcting errors
 * Submit
 
-
-<p align="left"> >><a href="https://ginger94s-advertising-ice-cream.glitch.me/" > demo </a><<<br><br>
+<p align="left"> >><a href="https://ginger94s-advertising-ice-cream.glitch.me/" > demo </a><<<br><br>r>
